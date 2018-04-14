@@ -15,7 +15,7 @@ public class MyController implements Controller {
                                       HttpServletResponse httpServletResponse) throws Exception {
         ModelAndView mv = new ModelAndView();
         //其底层执行的是request.setAttribute()
-        mv.addObject("message","hello SpringMVC World");
+        mv.addObject("message", "hello SpringMVC World");
         mv.setViewName("welcome");
         return mv;
     }
