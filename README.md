@@ -1,5 +1,5 @@
 # SpringMVC4学习 #
-1. 01-第一个程序[https://github.com/Zhuanglijuan/SpringMVC4/tree/master/01-primary](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/01-primary)
+1. 01-[第一个程序](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/01-primary)
 	- 开发流程
 	1.  注册中央调度器
 	2.  定义处理器
