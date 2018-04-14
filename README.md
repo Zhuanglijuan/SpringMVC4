@@ -6,4 +6,4 @@
 	3.  定义跳转页面
 	4.  注册处理器
 	- SpringMVC执行流程
-	![](https://github.com/Zhuanglijuan/SpringMVC4/blob/master/SpringMVC执行流程示意图.png)
+	![image](https://github.com/Zhuanglijuan/SpringMVC4/blob/master/img/1.png)
