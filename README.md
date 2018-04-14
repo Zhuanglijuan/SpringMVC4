@@ -7,3 +7,5 @@
 	4.  注册处理器
 	- SpringMVC执行流程
 	![image](https://github.com/Zhuanglijuan/SpringMVC4/blob/master/img/1.png)
+
+2. 02-[SpringMVC配置式开发](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/02-simpleUrlHandlerMapping)
