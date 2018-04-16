@@ -14,3 +14,10 @@
 	2. 处理器的请求映射规则的定义
 	3. 处理器方法的参数
 	4. [处理器方法的返回值](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/03-returnObject)
+		1. 返回ModelAndView
+		2. 返回数值型对象
+		3. 返回字符串对象
+		4. 返回自定义类型对象
+		5. 返回Map集合
+		6. 返回List集合
+	
