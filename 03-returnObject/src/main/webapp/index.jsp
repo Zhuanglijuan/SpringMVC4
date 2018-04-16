@@ -10,7 +10,12 @@
                 $.ajax({
                     url:"${pageContext.request.contextPath}/test/myAjax.do",
                     success:function (data) {
-                        alert(data);
+                        //alert(data);
+                        //alert(data.name + " " + data.age);
+                        //alert(data.student1.name + " " + data.student2.age);
+                        $(data).each(function (index) {
+                            alert(data[index].name + " " + data[index].age);
+                        });
                     }
                 });
             });
