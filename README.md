@@ -9,3 +9,8 @@
 	![image](https://github.com/Zhuanglijuan/SpringMVC4/blob/master/img/1.png)
 
 2. 02-[SpringMVC配置式开发](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/02-simpleUrlHandlerMapping)
+3. 03-[SpringMVC注解式开发](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/03-primary-annotation)
+	1. 第一个注解式开发程序
+	2. 处理器的请求映射规则的定义
+	3. 处理器方法的参数
+	4. [处理器方法的返回值](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/03-returnObject)
