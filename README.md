@@ -34,3 +34,7 @@
 	1. 验证器的注册
 	2. 验证注解添加到实体类
 	3. 将验证失败信息写入到表单
+
+7. SpringMVC-文件上传
+	1. [上传单个文件](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/07-fileupload-single)
+	2. [上传多个文件](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/07-fileupload-multi)
