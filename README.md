@@ -26,3 +26,8 @@
 	2. 多种日期格式
 	3. 数据回显
 	4. 提示信息
+
+5. [SpringMVC-初始化参数绑定](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/05-initDataBinder)
+	1. 一种日期格式
+	2. 多种日期格式
+
