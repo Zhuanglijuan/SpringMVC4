@@ -30,4 +30,7 @@
 5. [SpringMVC-初始化参数绑定](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/05-initDataBinder)
 	1. 一种日期格式
 	2. 多种日期格式
-
+6. [SpringMVC-数据验证](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/06-validator)
+	1. 验证器的注册
+	2. 验证注解添加到实体类
+	3. 将验证失败信息写入到表单
