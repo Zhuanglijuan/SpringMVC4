@@ -20,4 +20,9 @@
 		4. 返回自定义类型对象
 		5. 返回Map集合
 		6. 返回List集合
-	
+
+4. [SpringMVC-类型转换器](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/04-typeConverter)
+	1. 自定义类型转换器
+	2. 多种日期格式
+	3. 数据回显
+	4. 提示信息
