@@ -39,4 +39,8 @@
 	1. [上传单个文件](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/07-fileupload-single)
 	2. [上传多个文件](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/07-fileupload-multi)
 8. SpringMVC-拦截器
-	1. 
+	1. [一个拦截器的执行](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/08-interceptor)
+	2. [多个拦截器的执行](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/08-interceptor2)
+	3. ![](https://github.com/Zhuanglijuan/SpringMVC4/blob/master/img/2.png)
+	4. [举例:权限拦截器](https://github.com/Zhuanglijuan/SpringMVC4/tree/master/08-interceptor_permission)
+		- 实现只有经过登陆的用户方可访问处理器，否则，将跳转失败页面
